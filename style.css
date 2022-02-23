@@ -26,7 +26,7 @@ h1{
 
 }
 .half-width img{
-    width: 90%;
+    width: 80%;
 }
 .button{
     text-decoration: none;
@@ -66,4 +66,9 @@ h1{
     background-color: #FFF4D6;
 }
 
-
+#bg-img{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: 96% 88%;
+}
